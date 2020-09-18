@@ -1,4 +1,4 @@
-require 'synapse_fi'
+require 'synapse_api'
 
 
 module Synapse
